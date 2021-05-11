@@ -1,14 +1,13 @@
 Hi, I’m Aditya 👋
 - 👀 I’m interested in: Making games 
-- 🌱 I’m currently learning: PyGame  
-- 📫 How to reach me: adusharma2004@gmail.com
+- 🌱 I’m currently learning: PyGame 
 
 ---
 
 ### Connect with me:
 
-[<img align="left" alt="Pancham | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Pancham | E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+[<img align="left" alt="Aditya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram.com/6adupadu9] 
+[<img align="left" alt="Aditya | E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][adusharma2004@gmail.com] 
 
 <br />
 
