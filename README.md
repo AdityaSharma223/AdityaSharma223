@@ -1,11 +1,13 @@
-# Hi, I’m Aditya 👋
-- 👀 I’m interested in: Automating tedious work.  
-- 🌱 I’m currently learning: PyGame
+<img height="500px" width="1500px" src="https://images.unsplash.com/photo-1579546929662-711aa81148cf?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Z3JhZGllbnR8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60">
 
-## Technology I use 
-[<code>
-<img width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png">
-</code>](https://www.python.org/)
+# Hi 👋
+- 🍂 [Python](https://www.python.org/) 
+- 🌱 I’m currently learning [PyGame](https://www.pygame.org/news)
+- 👀 I’m interested in making simulations. 
+- 📧 adusharma2004@gmail.com 
+- 📱 [Instagram](instagram.com/6adupadu9) (it's probably disabled) 
+## Tools I use 
+
 [<code> 
 <img width="30px" src="https://img.icons8.com/fluent/2x/github.png">
 </code>](https://www.github.com/)
@@ -19,5 +21,3 @@
 <img width="27px" src="https://avatars.githubusercontent.com/u/684879?s=280&v=4">
 </code>](https://www.sublimetext.com/)
 
-## Socials 
-[<img align="left" width="30px" src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" />](https://www.instagram.com/6adupadu9)
