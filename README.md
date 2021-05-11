@@ -1,5 +1,5 @@
 Hi, I’m Aditya 👋
-- 👀 I’m interested in: Making games 
+- 👀 I’m interested in: Automating tedious work.  
 - 🌱 I’m currently learning: PyGame 
 
 <!---
