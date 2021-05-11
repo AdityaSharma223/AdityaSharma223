@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning: PyGame
 
 ## Socials 
-[<img align="left" width="30px" src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" />](https://www.instagram.com/6adupadu9) 
-[<img align="left" width="30px" src="https://pinkeyegraphics.co.uk/wp-content/uploads/gmail-new-icon.ico" />](mailto: adusharma2004@gmail.com)
+[<img align="left" width="30px" src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" />](https://www.instagram.com/6adupadu9)
 
 <br/> 
 
@@ -24,7 +23,6 @@
 [<code> 
 <img width="27px" src="https://avatars.githubusercontent.com/u/684879?s=280&v=4">
 </code>](https://www.sublimetext.com/)
-
 
 <!---
 AdityaSharma223/AdityaSharma223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
