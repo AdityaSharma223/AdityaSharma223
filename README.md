@@ -4,7 +4,7 @@
 
 ## Socials 
 [<img align="left" width="30px" src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" />](https://www.instagram.com/6adupadu9) 
-[<img align="left" width="30px" src="https://pinkeyegraphics.co.uk/wp-content/uploads/gmail-new-icon.ico" />](adusharma2004@gmail.com)
+[<img align="left" width="30px" src="https://pinkeyegraphics.co.uk/wp-content/uploads/gmail-new-icon.ico" />](mailto: adusharma2004@gmail.com)
 
 <br/> 
 
