@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning [PyGame](https://www.pygame.org/news)
 - 👀 I’m interested in making simulations. 
 - 📧 adusharma2004@gmail.com 
-- 📱 [Instagram](instagram.com/6adupadu9) (it's probably disabled) 
+- 📱 [Instagram](https://instagram.com/6adupadu9) (it's probably disabled) 
 ## Tools I use 
 
 [<code> 
