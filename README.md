@@ -21,5 +21,5 @@
 <img width="27px" src="https://avatars.githubusercontent.com/u/684879?s=280&v=4">
 </code>](https://www.sublimetext.com/)
 [<code> 
-<img width="30px" src="https://image.shutterstock.com/image-vector/sql-icon-600w-397930171.jpg">
+<img width="30px" src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png">
 </code>](https://www.mysql.com/)
