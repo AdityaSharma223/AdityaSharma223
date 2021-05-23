@@ -7,7 +7,9 @@
 - 📧 adusharma2004@gmail.com 
 - 📱 [Instagram](https://instagram.com/6adupadu9) (it's probably disabled) 
 ## Tools I use 
-
+[<code>
+<img width="30px" src="https://img.icons8.com/color/240/000000/python.png">
+</code>](https://www.python.org/)
 [<code> 
 <img width="30px" src="https://img.icons8.com/fluent/2x/github.png">
 </code>](https://www.github.com/)
