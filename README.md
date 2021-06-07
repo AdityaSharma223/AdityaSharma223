@@ -11,17 +11,26 @@
 <img width="30px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
 [<code> 
+<img width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.yAYBxYXYrPhfSxhlhAr3agHaHa%26pid%3DApi&f=1">
+</code>](https://en.wikipedia.org/wiki/C%2B%2B)
+[<code> 
 <img width="30px" src="https://img.icons8.com/fluent/2x/github.png">
 </code>](https://www.github.com/)
 [<code>
+<img width="30px" src="https://static.wikia.nocookie.net/logopedia/images/3/35/Tux.svg/revision/latest/scale-to-width-down/200?cb=20170329125233" />
+</code>](https://www.linux.org/)
+[<code>
+<img width="30px" src="https://www.vim.org/images/vim_small.gif" />
+</code>](https://www.vim.org/)
+[<code>
 <img width="30px" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" />
 </code>](https://code.visualstudio.com/)
-[<code>
-<img width="30px" src="https://www.freeiconspng.com/thumbs/windows-icon-png/cute-ball-windows-icon-png-16.png">
-</code>](https://www.microsoft.com/en-us/windows)
 [<code> 
 <img width="27px" src="https://avatars.githubusercontent.com/u/684879?s=280&v=4">
 </code>](https://www.sublimetext.com/)
 [<code> 
 <img width="30px" src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png">
 </code>](https://www.mysql.com/)
+[<code> 
+<img width="30px" src="https://git-scm.com/images/logos/logomark-white@2x.png">
+</code>](https://git-scm.com/)
