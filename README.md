@@ -11,8 +11,8 @@
 <img width="30px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
 [<code> 
-<img width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.yAYBxYXYrPhfSxhlhAr3agHaHa%26pid%3DApi&f=1">
-</code>](https://en.wikipedia.org/wiki/C%2B%2B)
+<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+</code>](https://www.w3schools.com/cpp/)
 [<code> 
 <img width="30px" src="https://img.icons8.com/fluent/2x/github.png">
 </code>](https://www.github.com/)
@@ -22,6 +22,9 @@
 [<code>
 <img width="30px" src="https://www.vim.org/images/vim_small.gif" />
 </code>](https://www.vim.org/)
+[<code>
+<img width="35px" src="https://img.icons8.com/plasticine/2x/bash.png">
+</code>](https://www.gnu.org/software/bash/)
 [<code>
 <img width="30px" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" />
 </code>](https://code.visualstudio.com/)
