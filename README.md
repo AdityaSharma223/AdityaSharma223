@@ -3,9 +3,9 @@
 # Hi 👋
 - 🍂 [Python](https://www.python.org/) 
 - 🌱 I’m currently learning [PyGame](https://www.pygame.org/news)
-- 👀 I’m interested in making simulations. 
-- 📧 adusharma2004@gmail.com 
+- 👀 I’m interested in making simulations.
 - 📱 [Instagram](https://instagram.com/6adupadu9) (it's probably disabled) 
+
 ## Tools I use 
 [<code>
 <img width="30px" src="https://img.icons8.com/color/240/000000/python.png">
