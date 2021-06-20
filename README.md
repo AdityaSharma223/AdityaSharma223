@@ -9,6 +9,9 @@
 
 ## Tools I use 
 [<code>
+<img width="30px" src="https://static.wikia.nocookie.net/logopedia/images/3/35/Tux.svg/revision/latest/scale-to-width-down/200?cb=20170329125233" />
+</code>](https://www.linux.org/)
+[<code>
 <img width="30px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
 [<code> 
@@ -17,9 +20,9 @@
 [<code> 
 <img width="30px" src="https://img.icons8.com/fluent/2x/github.png">
 </code>](https://www.github.com/)
-[<code>
-<img width="30px" src="https://static.wikia.nocookie.net/logopedia/images/3/35/Tux.svg/revision/latest/scale-to-width-down/200?cb=20170329125233" />
-</code>](https://www.linux.org/)
+[<code> 
+<img width="30px" src="https://img.icons8.com/color/48/000000/git.png">
+</code>](https://git-scm.com/)
 [<code>
 <img width="30px" src="https://www.vim.org/images/vim_small.gif" />
 </code>](https://www.vim.org/)
@@ -29,15 +32,8 @@
 [<code>
 <img width="30px" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" />
 </code>](https://code.visualstudio.com/)
-[<code> 
-<img width="27px" src="https://avatars.githubusercontent.com/u/684879?s=280&v=4">
-</code>](https://www.sublimetext.com/)
-[<code> 
-<img width="30px" src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png">
-</code>](https://www.mysql.com/)
-[<code> 
-<img width="30px" src="https://git-scm.com/images/logos/logomark-white@2x.png">
-</code>](https://git-scm.com/)
+
 
 ## Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityasharma223&show_icons=true&theme=tokyonight&hide_border=true&locale=en" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityasharma223&show_icons=true&theme=dark&hide_border=true&locale=en" />
+<img allign="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasharma223&theme=dark&hide_border=true"/>
