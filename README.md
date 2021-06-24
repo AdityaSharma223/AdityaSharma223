@@ -1,4 +1,4 @@
-<img height="300px" width="1400px" src="https://images.unsplash.com/photo-1579546929662-711aa81148cf?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Z3JhZGllbnR8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60">
+<img height="400px" width="1400px" src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGFic3RyYWN0JTIwY29sb3JzfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60">
 
 <h1 align="center">Aditya Sharma</h1>
 
