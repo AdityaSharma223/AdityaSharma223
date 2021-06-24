@@ -1,6 +1,6 @@
 <img height="400px" width="1400px" src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGFic3RyYWN0JTIwY29sb3JzfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60">
 
-<h1 align="center">Aditya Sharma</h1>
+<h1 align="center">Aditya (•_•) Sharma</h1>
 
 - 🍂 [Python](https://www.python.org/), [Pop Os](https://pop.system76.com/), [Vim](https://www.vim.org/)
 - 🌱 I like to edit my .config files in my free time
@@ -28,11 +28,9 @@
 <img width="30px" src="https://www.vim.org/images/vim_small.gif" />
 </code>](https://www.vim.org/)
 [<code>
-<img width="35px" src="https://img.icons8.com/plasticine/2x/bash.png">
-</code>](https://www.gnu.org/software/bash/)
-[<code>
-<img width="30px" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" />
-</code>](https://code.visualstudio.com/)
+<img width="40px" src="https://ohmyz.sh/img/OMZLogo_BnW.png">
+</code>](https://ohmyz.sh/)
+
 
 
 ## Stats
