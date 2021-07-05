@@ -3,8 +3,6 @@
 - 🍂 [Python](https://www.python.org/), [Pop Os](https://pop.system76.com/), [Vim](https://www.vim.org/)
 - 🌱 I like to edit my .config files in my free time
 - 👀 I’m interested in simulations and competitive programming.
-- 📱 [Instagram](https://instagram.com/6adupadu9) (it's probably disabled) 
-- 🌠 Fun Fact: VIM is fricking awesome :p 
 
 ## Tools I use 
 [<code>
