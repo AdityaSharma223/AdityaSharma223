@@ -4,6 +4,9 @@
 - 🌱 I like to edit my .config files in my free time
 - 👀 I’m interested in simulations and competitive programming.
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasharma223&label=Profile%20views&color=0e75b6&style=flat-square" /> </p>
+
 ## Tools I use 
 [<code>
 <img width="30px" src="https://static.wikia.nocookie.net/logopedia/images/3/35/Tux.svg/revision/latest/scale-to-width-down/200?cb=20170329125233" />
