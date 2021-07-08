@@ -6,6 +6,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasharma223&label=Profile%20views&color=0e75b6&style=flat-square" /> </p>
+<p align="center"> <img widhh="225" height="225" src="https://github.com/AdityaSharma223/AdityaSharma223/blob/main/qrcode_adityasharma223.github.io.png" /> </p>
 
 ## Tools I use 
 [<code>
