@@ -31,8 +31,5 @@
 <img width="40px" src="https://ohmyz.sh/img/OMZLogo_BnW.png">
 </code>](https://ohmyz.sh/)
 
-
-
 ## Stats
----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasharma223&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adityasharma223&show_icons=true&count_private=true&theme=dark&hide_border=true)  
