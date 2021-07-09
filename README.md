@@ -34,5 +34,5 @@
 
 
 ## Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityasharma223&show_icons=true&theme=dark&hide_border=true&locale=en" />
-<img allign="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasharma223&theme=dark&hide_border=true"/>
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasharma223&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adityasharma223&show_icons=true&count_private=true&theme=dark&hide_border=true)  
