@@ -17,9 +17,9 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"
 width="40" height="40"/> </a> <a href="https://github.com/alacritty/alacritty"
 target="_blank"> <img
 src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/compat/alacritty-term%2Bscanlines.png"
-alt="alacritty" width="40" height="40"/> </a> <a href="https://www.vim.org/"
+alt="alacritty" width="40" height="40"/> </a> <a href="https://neovim.io/"
 target="_blank"> <img
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png"
+src="https://user-images.githubusercontent.com/28633984/66519056-2e840c80-eaef-11e9-8670-c767213c26ba.png"
 alt="vim/vi" width="40" height="40"/> </a>  <a href="https://www.python.org"
 target="_blank"> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
