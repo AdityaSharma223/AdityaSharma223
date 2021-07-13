@@ -35,5 +35,3 @@ alt="css3" width="40" height="40"/> </a> </p>
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasharma223&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adityasharma223&show_icons=true&count_private=true&theme=dark&hide_border=true)  
-## My Desktop 
-<p align="center"> <img width="1000" height="525" src="https://github.com/AdityaSharma223/AdityaSharma223/blob/main/homescreen.png" /> </p>
