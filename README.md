@@ -19,7 +19,7 @@ target="_blank"> <img
 src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/compat/alacritty-term%2Bscanlines.png"
 alt="alacritty" width="40" height="40"/> </a> <a href="https://neovim.io/"
 target="_blank"> <img
-src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo-300x87.png"
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png"
 alt="vim/vi" width="40" height="40"/> </a>  <a href="https://www.python.org"
 target="_blank"> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
