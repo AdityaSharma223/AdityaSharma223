@@ -3,6 +3,7 @@
 - 🍂 [Python](https://www.python.org/), [Pop Os](https://pop.system76.com/), [Vim](https://www.vim.org/)
 - 🌱 I like to edit my .config files in my free time
 - 👀 I’m interested in simulations and competitive programming.
+- 👽 Monokai is the best theme in existence after of course GRUVBOX. 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasharma223&label=Profile%20views&color=0e75b6&style=flat-square" /> </p>
