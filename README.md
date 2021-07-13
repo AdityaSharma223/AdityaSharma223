@@ -34,4 +34,4 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
 alt="css3" width="40" height="40"/> </a> </p>
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasharma223&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adityasharma223&show_icons=true&count_private=true&theme=dark&hide_border=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasharma223&theme=gruvbox&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adityasharma223&show_icons=true&count_private=true&theme=gruvbox&hide_border=true)  
