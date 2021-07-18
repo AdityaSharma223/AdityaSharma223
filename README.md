@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasharma223&label=Profile%20views&color=0e75b6&style=flat-square" /> </p>
 
-`
+```
 about me {
 	name: "Adiya Sharma", 
 	pronouns: ["he", "him"], 
@@ -17,7 +17,7 @@ about me {
 	operating_system: "Linux" ("Pop!_OS"), 
 	tools: ["neovim", "zsh", "alacritty", "git"]
 }
-`
+```
 
 
 ## My weapons of choice 
