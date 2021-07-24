@@ -21,7 +21,7 @@ target="_blank"> <img
 src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/compat/alacritty-term%2Bscanlines.png"
 alt="alacritty" width="40" height="40"/> </a> <a href="https://neovim.io/"
 target="_blank"> <img
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png"
+src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.jStYldmO5c7ODiUCJTnTxAHaJE%26pid%3DApi&f=1"
 alt="vim/vi" width="40" height="40"/> </a>  <a href="https://www.python.org"
 target="_blank"> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
