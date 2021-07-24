@@ -1,4 +1,3 @@
-test
 <h1 align="center">Aditya Sharma</h1>
 
 - 🍂 [Python](https://www.python.org/), [Pop Os](https://pop.system76.com/), [NeoVim](https://neovim.io/)
