@@ -12,22 +12,26 @@
   <summary>⚙️ <b><i>System info</i></b></summary>
   
 ```
-                     ./o.                  umang@r0nus
-                   ./sssso-                  os ~ EndeavourOS x86_64
-                 `:osssssss+-                sh ~ zsh
-               `:+sssssssssso/.              up ~ 69 hours, 42 mins
-             `-/ossssssssssssso/.           bat ~ 53% [Discharging]
-           `-/+sssssssssssssssso+:`         res ~ 1920x1080
-         `-:/+sssssssssssssssssso+/.        cpu ~ AMD Ryzen 5 4500U (6) @ 2.375GHz
-       `.://osssssssssssssssssssso++-       mem ~ 4002MiB / 7430MiB (53%)
-      .://+ssssssssssssssssssssssso++:     kern ~ 5.12.12-arch1-1
-    .:///ossssssssssssssssssssssssso++:    pkgs ~ 1388 (pacman)
-  `:////ssssssssssssssssssssssssssso+++.   term ~ Alacritty
-`-////+ssssssssssssssssssssssssssso++++-   host ~ VivoBook_ASUSLaptop X421IA_M433IA 1.0
- `..-+oosssssssssssssssssssssssso+++++/`   
-   ./++++++++++++++++++++++++++++++/:.     
-  `:::::::::::::::::::::::::------``       
-
+             /////////////                adityasharma@pop-os
+         /////////////////////            -------------------
+      ///////*767////////////////         OS: Pop!_OS 21.04 x86_64
+    //////7676767676*//////////////       Kernel: 5.11.0-7620-generic
+   /////76767//7676767//////////////      Shell: zsh 
+  /////767676///*76767///////////////     DE: GNOME
+ ///////767676///76767.///7676*///////    WM: Mutter
+/////////767676//76767///767676////////   WM Theme: Pop
+//////////76767676767////76767/////////   Terminal: alacritty 
+///////////76767676//////7676//////////   DE: GNOME
+////////////,7676,///////767///////////   WM: Mutter
+/////////////*7676///////76////////////   WM Theme: Pop
+///////////////7676////////////////////   
+ ///////////////7676///767////////////    
+  //////////////////////'////////////     
+   //////.7676767676767676767,//////      
+    /////767676767676767676767/////       
+      ///////////////////////////         
+         /////////////////////
+             /////////////
 ```
   </details>
 
