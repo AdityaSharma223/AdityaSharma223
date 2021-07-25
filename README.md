@@ -8,6 +8,28 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasharma223&label=Profile%20views&color=0e75b6&style=flat-square" /> </p>
+<details>
+  <summary>⚙️ <b><i>System info</i></b></summary>
+  
+```
+                     ./o.                  umang@r0nus
+                   ./sssso-                  os ~ EndeavourOS x86_64
+                 `:osssssss+-                sh ~ zsh
+               `:+sssssssssso/.              up ~ 69 hours, 42 mins
+             `-/ossssssssssssso/.           bat ~ 53% [Discharging]
+           `-/+sssssssssssssssso+:`         res ~ 1920x1080
+         `-:/+sssssssssssssssssso+/.        cpu ~ AMD Ryzen 5 4500U (6) @ 2.375GHz
+       `.://osssssssssssssssssssso++-       mem ~ 4002MiB / 7430MiB (53%)
+      .://+ssssssssssssssssssssssso++:     kern ~ 5.12.12-arch1-1
+    .:///ossssssssssssssssssssssssso++:    pkgs ~ 1388 (pacman)
+  `:////ssssssssssssssssssssssssssso+++.   term ~ Alacritty
+`-////+ssssssssssssssssssssssssssso++++-   host ~ VivoBook_ASUSLaptop X421IA_M433IA 1.0
+ `..-+oosssssssssssssssssssssssso+++++/`   
+   ./++++++++++++++++++++++++++++++/:.     
+  `:::::::::::::::::::::::::------``       
+
+```
+  </details>
 
 
 ## My weapons of choice 
