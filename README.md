@@ -7,7 +7,11 @@
 - 👽 Monokai is the best theme in existence after of course GRUVBOX. 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasharma223&label=Profile%20views&color=0e75b6&style=flat-square" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=adityasharma223&label=Profile%20views&color=0e75b6&style=flat-square" />
+
+</p>
+
+
 <details>
   <summary>⚙️ <b><i>System info</i></b></summary>
   
