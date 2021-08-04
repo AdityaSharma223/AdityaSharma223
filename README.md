@@ -1,6 +1,6 @@
 <h1 align="center">Aditya Sharma</h1>
 
-- 🍂 [Python](https://www.python.org/), [Pop! OS](), [NeoVim](https://neovim.io/)
+- 🍂 [Python](https://www.python.org/), [Pop! OS](https://pop.system76.com/), [NeoVim](https://neovim.io/)
 - 🌱 I like to edit my .config files in my free time
 - 👀 Interested in competetive porgramming and algorithms. 
 - 🌲️ I’m currently learning [Rust](https://www.rust-lang.org/)
