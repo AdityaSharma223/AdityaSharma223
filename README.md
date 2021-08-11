@@ -1,14 +1,12 @@
 <h1 align="center">Aditya Sharma</h1>
 
+<p align="lieft"> <img src="https://komarev.com/ghpvc/?username=adityasharma223&label=Profile%20views&color=0e75b6&style=flat-square" />
+
+</p>
 - 🍂 [Python](https://www.python.org/), [Pop! OS](https://pop.system76.com/), [NeoVim](https://neovim.io/)
 - 🌱 I like to edit my .config files in my free time
 - 👀 Interested in competetive porgramming and algorithms. 
 - 🌲️ I’m currently learning [Rust](https://www.rust-lang.org/)
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=adityasharma223&label=Profile%20views&color=0e75b6&style=flat-square" />
-
-</p>
 
 
 ## My weapons of choice 
