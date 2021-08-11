@@ -4,7 +4,6 @@
 - 🌱 I like to edit my .config files in my free time
 - 👀 Interested in competetive porgramming and algorithms. 
 - 🌲️ I’m currently learning [Rust](https://www.rust-lang.org/)
-- 👽 Monokai is the best theme in existence after of course GRUVBOX. 
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adityasharma223&label=Profile%20views&color=0e75b6&style=flat-square" />
