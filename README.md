@@ -10,7 +10,7 @@
 
 
 ## My weapons of choice 
-<p align="left"> <a href="https://www.linux.org/" target="_blank"> <img
+<p align="left"> <a href="https://pop.system76.com/" target="_blank"> <img
 src="https://preview.redd.it/pj6ak7gt81f71.png?width=640&crop=smart&auto=webp&s=5423c7ea8953a8e03fbf4faae256963df22b2ff3"
 alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com/"
 target="_blank"> <img
