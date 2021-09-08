@@ -10,11 +10,8 @@ class Me:
         self.editor = "NeoVim"
         self.programming_languages = ["Python3", "C++", "Rust", "VIM Script", "Lua"]
         self.markdown_languages = ["HTML", "CSS", "Markdown"]
-    def say_hi(self):
-        print("Hello :)")
-
-main = Me()
-main.say_hi()
+        
+Aditya = Me()
 ```
 
 |                         Github Stats                         |                        Top languages                         |
