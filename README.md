@@ -7,7 +7,7 @@ src="https://komarev.com/ghpvc/?username=adityasharma223&label=Profile%20views&c
 
 - 🍂 [Python](https://www.python.org/), [Pop! OS](https://pop.system76.com/), [NeoVim](https://neovim.io/)
 - 🌱 I like to edit my .config files in my free time
-- 👀 Interested in competetive porgramming and algorithms. 
+- 👀 Interested in competitive programming and algorithms. 
 - 🌲️ I’m currently learning [Rust](https://www.rust-lang.org/)
 
 
