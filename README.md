@@ -10,7 +10,7 @@ class Me:
         self.editor = "NeoVim"
         self.programming_languages = ["Python3", "C++", "Rust", "VIM Script", "Lua"]
         self.markdown_languages = ["HTML", "CSS", "Markdown"]
-        
+
 Aditya = Me()
 ```
 
