@@ -8,8 +8,8 @@ class Me:
         self.language_spoken = ["English", "Hindi"]
     def say_hi(self):
         print("Hello :)")
-   
-main = Me() 
+
+main = Me()
 main.say_hi()
 ```
 
