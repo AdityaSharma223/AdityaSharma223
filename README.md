@@ -5,8 +5,8 @@ class Me:
     def __init__(self):
         self.name = "Aditya Sharma"
         self.role = "Student"
-        self.language_spoken = ["English", "Hindi"]
-        self.os_used = {"Linux" : "Pop!_OS 21.04"}
+        self.language = ["English", "Hindi"]
+        self.os = {"Linux" : "Pop!_OS 21.04"}
         self.editor = "NeoVim"
         self.programming_languages = ["Python3", "C++", "Rust", "VIM Script", "Lua"]
         self.markdown_languages = ["HTML", "CSS", "Markdown"]
