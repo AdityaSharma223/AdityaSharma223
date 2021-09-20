@@ -9,7 +9,7 @@ class Me:
         self.os = {"Linux" : "Pop!_OS 21.04"}
         self.editor = "NeoVim"
         self.programming_languages = ["Python3", "C++", "Rust", "Vimscript", "Lua"]
-        self.markdown_languages = ["HTML", "CSS", "Markdowna"]
+        self.markdown_languages = ["HTML", "CSS", "Markdown"]
 
 Aditya = Me()
 ```
