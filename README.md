@@ -6,7 +6,7 @@ class Me:
         self.name = "Aditya Sharma"
         self.role = "Student"
         self.language = ["English", "Hindi"]
-        self.os = {"Linux" : "Pop!_OS 21.04"}
+        self.os = {"Linux" : "ArcoLinux (qtile)"}
         self.editor = "NeoVim"
         self.programming_languages = ["Python3", "C++", "Rust", "Vimscript", "Lua"]
         self.markdown_languages = ["HTML", "CSS", "Markdown"]
