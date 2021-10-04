@@ -1,5 +1,5 @@
 ```python
-#!/usr/bin/python3
+#!/usr/bin/python
 
 class Me:
     def __init__(self):
@@ -8,7 +8,7 @@ class Me:
         self.language = ["English", "Hindi"]
         self.os = {"Linux" : "ArcoLinux (qtile)"}
         self.editor = "NeoVim"
-        self.programming_languages = ["Python3", "C++", "Rust", "Vimscript", "Lua"]
+        self.programming_languages = ["Python3", "C++", "Vimscript", "Lua"]
         self.markdown_languages = ["HTML", "CSS", "Markdown"]
 
 Aditya = Me()
